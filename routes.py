@@ -6,6 +6,3 @@ app=Flask(__name__)
 @app.route('/')
 def home() :
     return render_template('home.htm')
-
-
-app.run(debug=1)
