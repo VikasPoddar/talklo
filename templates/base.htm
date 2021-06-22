@@ -8,9 +8,10 @@
                 Talklo
             {% endif %}
         </title>
-        <link rel='stylesheet' href="{{url_for()}}">
+        <link rel='stylesheet' href="{{url_for('static',filename='main.css')}}">
     </head>
     <body>
-        
+        {% block content %}
+        {% endblock %}
     </body>
 </html>
