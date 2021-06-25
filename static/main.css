@@ -1,2 +1,38 @@
-body{background-color: cornflowerblue;}
-div{background-color: chartreuse; text-align:center; margin-top: 10%;}
+.content{margin: 12px; 
+background-color:mediumpurple; 
+padding: 5px; 
+text-align: center;
+}
+.heading{
+    margin-top:15px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:orchid;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: larger;
+}
+.subheading{margin-top: 15px;
+    text-align: center; 
+    margin-bottom: 20px; 
+    background-color: lightblue; 
+    padding: 10px;}
+.footer{ margin-top: 30px; 
+    background-color: lightskyblue;}
+body{ background-color: mediumpurple;}
+.nav{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(232, 148, 235);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 5px;
+    width: auto;
+}
+.button-style-1{
+    color: darkorchid;
+    margin: 5px;
+    text-align: center;
+    border-radius: 5px;
+}

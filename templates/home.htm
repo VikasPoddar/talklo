@@ -1,9 +1,17 @@
 {% extends "base.htm" %}
 {% block content %}
-<div>
+<div class="heading">
+    Talklo
+</div>
+<div class="nav">
+
+            <a href="{{url_for('contact')}}" ><button class="button-style-1"> contact us </button></a> |
+            <a href="{{url_for('about')}}" ><button class="button-style-1"> about us</button></a>
+           
+</div>
+<div class="subheading">
     <p>
         Welcome to the intial release of application
     </p>
 </div>
-
 {% endblock  %}
