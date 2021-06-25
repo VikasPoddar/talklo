@@ -19,7 +19,6 @@ text-align: center;
     padding: 10px;}
 .footer{ margin-top: 30px; 
     background-color: lightskyblue;}
-body{ background-color: mediumpurple;}
 .nav{
     margin-top: 10px;
     margin-left: auto;
@@ -35,4 +34,12 @@ body{ background-color: mediumpurple;}
     margin: 5px;
     text-align: center;
     border-radius: 5px;
+}
+.button-style-2{
+    color:royalblue;
+    border-radius: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    border-width: medium;
 }

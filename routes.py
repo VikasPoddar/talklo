@@ -14,6 +14,10 @@ def contact() :
 def about() :
     return render_template('about.htm')
 
+@app.route('/login')
+def login() :
+    return render_template('login.htm')
+
 
 
 if __name__=="__main__" :
