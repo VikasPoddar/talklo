@@ -1,5 +1,5 @@
 .content{margin: 12px; 
-background-color:mediumpurple; 
+background-color:#FF6A00; 
 padding: 5px; 
 text-align: center;
 }
@@ -7,7 +7,7 @@ text-align: center;
     margin-top:15px;
     margin-left: auto;
     margin-right: auto;
-    background-color:orchid;
+    background-color:#F26500;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
     font-size: larger;
@@ -15,28 +15,28 @@ text-align: center;
 .subheading{margin-top: 15px;
     text-align: center; 
     margin-bottom: 20px; 
-    background-color: lightblue; 
+    background-color: #F47A00; 
     padding: 10px;}
 .footer{ margin-top: 30px; 
-    background-color: lightskyblue;}
+    background-color: #F47A00;}
 .nav{
     margin-top: 10px;
     margin-left: auto;
     margin-right: auto;
-    background-color: rgb(232, 148, 235);
+    background-color: r#F47A00;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     padding: 5px;
     width: auto;
 }
 .button-style-1{
-    color: darkorchid;
+    color: #F47A00;
     margin: 5px;
     text-align: center;
     border-radius: 5px;
 }
 .button-style-2{
-    color:royalblue;
+    color:#CE6700;
     border-radius: 15px;
     margin-left: 10px;
     margin-right: 10px;
